@@ -1,0 +1,7 @@
+Author: ehhthing
+
+Description
+A piece of paper is a blank canvas, what do you want on yours? Source code: paper-2.tar
+Make yours here: https://lonely-island.picoctf.net:50885
+Please test your exploits against a local instance using the included docker compose file before running against remote, thanks!
+debug info: [u:1011487 e:79 p:112603 c:726 i:2
